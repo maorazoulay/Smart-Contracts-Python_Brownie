@@ -1,6 +1,7 @@
 from brownie import accounts, network, config, MockV3Aggregator
 from web3 import Web3
 
+FORKED_
 LOCAL_BLOCKCHAIN_ENVIRONMENTS = ["development", "ganache-local"]
 
 DECIMALS = 8
